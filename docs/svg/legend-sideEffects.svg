@@ -1,0 +1,3179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="238.88599mm"
+   height="234.80138mm"
+   viewBox="0 0 238.88598 234.80138"
+   version="1.1"
+   id="svg5429"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   sodipodi:docname="legend-sideEffects.svg">
+  <defs
+     id="defs5423">
+    <marker
+       inkscape:stockid="DiamondS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker24264"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path24262"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         style="fill:#f7ac09;fill-opacity:1;fill-rule:evenodd;stroke:#f7ac09;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker24254"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path24252"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         style="fill:#f7ac09;fill-opacity:1;fill-rule:evenodd;stroke:#f7ac09;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker22204"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path22202"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         style="fill:#f7ac09;fill-opacity:1;fill-rule:evenodd;stroke:#f7ac09;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker22194"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path22192"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         style="fill:#f7ac09;fill-opacity:1;fill-rule:evenodd;stroke:#f7ac09;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="FilledArrow_Marker-3-0"
+       stroke-miterlimit="10"
+       viewBox="-1 -6 14 12"
+       markerWidth="14"
+       markerHeight="12"
+       color="#000000"
+       stroke-linejoin="miter">
+      <g
+         id="g4-6">
+        <path
+           d="M 12,0 0,-4 v 9 z"
+           id="path2-75"
+           fill="currentColor"
+           stroke="currentColor"
+           stroke-width="1" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="FilledArrow_Marker_2-8-5-3"
+       stroke-miterlimit="10"
+       viewBox="-1 -5 11 10"
+       markerWidth="11"
+       markerHeight="10"
+       color="#000000"
+       stroke-linejoin="miter">
+      <g
+         id="g9-0-13-7">
+        <path
+           d="M 8,0 0,-3 v 6 z"
+           id="path7-5-5-5"
+           fill="currentColor"
+           stroke="currentColor"
+           stroke-width="1" />
+      </g>
+    </marker>
+    <marker
+       inkscape:stockid="DiamondS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker13519"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path13517"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         style="fill:#f7ac09;fill-opacity:1;fill-rule:evenodd;stroke:#f7ac09;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker13519-1"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path13517-4"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         style="fill:#f7ac09;fill-opacity:1;fill-rule:evenodd;stroke:#f7ac09;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="853.11817"
+     inkscape:cy="469.31855"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1313"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     lock-margins="true"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5" />
+  <metadata
+     id="metadata5426">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-213.20496,95.541439)">
+    <g
+       id="g26378"
+       transform="translate(4.8108475,101.56242)">
+      <path
+         id="line1124"
+         d="m 271.63553,-11.615369 h 40.95531"
+         fill="none"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="0.529999"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-dasharray="none"
+         stroke-opacity="1"
+         marker-end="url(#FilledArrow_Marker-3-0)" />
+      <path
+         id="path211686"
+         d="m 269.61798,-64.57631 h 104.19983 l 0.19999,0.28 v 26.049956 l -0.19999,0.279999 H 269.61798 l -0.2,-0.279999 V -64.29631 Z"
+         fill="#ffffff"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="0.529999"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         id="line59-4-1-1"
+         d="m 297.7545,-85.106276 v 15.399975"
+         fill="none"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="0.529999"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-dasharray="0.529166, 1.5875"
+         stroke-opacity="1"
+         marker-end="url(#FilledArrow_Marker_2-8-5-3)" />
+      <path
+         d="m 270.11015,-85.65787 h 37.34819"
+         id="path231622"
+         fill="none"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="0.529999"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-dasharray="none"
+         stroke-opacity="1"
+         marker-end="url(#FilledArrow_Marker-3-0)" />
+      <path
+         id="path234303"
+         d="m 297.4145,-91.956266 h 0.26 l 0.53,0.53 v 11.899981 l -0.53,0.539999 h -0.26 l -0.53,-0.529999 v -11.899981 z"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         stroke-width="0.26"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         id="line1181-0-1"
+         d="m 272.57798,-41.267158 h 99.52983"
+         fill="none"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="0.529999"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         d="m 280.28797,-85.106276 v 15.399975"
+         id="path269354"
+         fill="none"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="0.529999"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-dasharray="0.529166, 1.5875"
+         stroke-opacity="1"
+         marker-end="url(#FilledArrow_Marker_2-8-5-3)" />
+      <circle
+         id="ellipse143-9"
+         cy="-85.596275"
+         cx="280.49799"
+         r="6.0899897"
+         fill="#6cb33e"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="0.529999"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <circle
+         r="6.0899897"
+         cx="280.49799"
+         cy="-11.516432"
+         id="circle269405"
+         fill="#6cb33e"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="0.529999"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         id="path269407"
+         d="m 280.28797,-38.016355 v 15.399974"
+         fill="none"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="0.529999"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-dasharray="0.529166, 1.5875"
+         stroke-opacity="1"
+         marker-end="url(#FilledArrow_Marker_2-8-5-3)" />
+      <rect
+         rx="2.6099954"
+         ry="2.6099954"
+         y="-31.606363"
+         x="264.73798"
+         height="10.079983"
+         width="10.079983"
+         id="rect269567"
+         opacity="0.98"
+         fill="none"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         stroke-opacity="1" />
+      <path
+         id="path269569"
+         d="m 267.69799,-31.436366 v -2.019997 h 0.08"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         d="m 269.81798,-31.436366 v -2.019997 h 0.09"
+         id="path269571"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         id="path269573"
+         d="m 271.94798,-31.436366 v -2.019997 h 0.08"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         d="m 267.69799,-19.526386 v -2.019997 h 0.08"
+         id="path269575"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         id="path269577"
+         d="m 269.81798,-19.526386 v -2.019997 h 0.09"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         d="m 271.94798,-19.526386 v -2.019997 h 0.08"
+         id="path269579"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         id="path269581"
+         d="m 274.62797,-26.576374 h 2.03 v 0.09"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         d="m 274.62797,-28.796371 h 2.03 v 0.08"
+         id="path269583"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         id="path269585"
+         d="m 277.05477,-28.806495 2.55446,0.876686 v -1.753371 z"
+         opacity="1"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         stroke-width="0.264271"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         stroke-opacity="1" />
+      <path
+         d="m 262.728,-28.696371 h 2.00999 v 0.09"
+         id="path269587"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         id="path269589"
+         d="m 262.728,-24.436378 h 2.00999 v 0.09"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         d="m 274.62797,-24.436378 h 2.03 v 0.09"
+         id="path269591"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         id="path269593"
+         d="m 262.728,-26.576374 h 2.00999 v 0.09"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <circle
+         r="3.0099947"
+         id="circle269597"
+         cy="-26.716375"
+         cx="269.86798"
+         fill="#6cb33e"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="0.26"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         d="M 297.7545,-37.946355 V -23.39638"
+         id="path298671"
+         fill="none"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="0.529999"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-dasharray="0.529166, 1.5875"
+         stroke-opacity="1"
+         marker-end="url(#FilledArrow_Marker_2-8-5-3)" />
+      <path
+         d="m 297.4145,-18.396388 h 0.26 l 0.53,0.519999 v 11.9099785 l -0.53,0.529994 h -0.26 l -0.53,-0.529994 V -17.866389 Z"
+         id="path298673"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         stroke-width="0.26"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         d="m 310.5938,-26.851097 -3.81045,2.208554 v -4.417108 z"
+         id="path298747"
+         opacity="0.82"
+         fill="none"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="1.05829"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         stroke-opacity="1" />
+      <rect
+         rx="2.6099954"
+         ry="2.6099954"
+         y="-31.696375"
+         x="303.45462"
+         height="10.079983"
+         width="10.079983"
+         id="rect298749"
+         opacity="0.98"
+         fill="none"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         stroke-opacity="1" />
+      <path
+         id="path298751"
+         d="m 306.41449,-31.526366 v -2.019996 h 0.08"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         d="m 308.53448,-31.526366 v -2.019996 h 0.09"
+         id="path298753"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         id="path298755"
+         d="m 310.66448,-31.526366 v -2.019996 h 0.08"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         d="m 306.41449,-19.616386 v -2.019997 h 0.08"
+         id="path298757"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         id="path298759"
+         d="m 308.53448,-19.616386 v -2.019997 h 0.09"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         d="m 310.66448,-19.616386 v -2.019997 h 0.08"
+         id="path298761"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         id="path298763"
+         d="m 313.34448,-26.666374 h 2.01999 v 0.08"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         d="m 313.34448,-28.89637 h 2.01999 v 0.09"
+         id="path298765"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         id="path298767"
+         d="m 301.38769,-28.826495 -2.55446,0.876686 v -1.753371 z"
+         opacity="1"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         stroke-width="0.264271"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         stroke-opacity="1" />
+      <path
+         d="m 301.4345,-28.786371 h 2.01999 v 0.09"
+         id="path298769"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         id="path298771"
+         d="m 301.4345,-24.526378 h 2.01999 v 0.09"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         d="m 313.34448,-24.526378 h 2.01999 v 0.09"
+         id="path298773"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         id="path298775"
+         d="m 301.4345,-26.666374 h 2.01999 v 0.08"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         d="M 333.22788,-85.653342 H 365.2148"
+         id="path16991"
+         fill="none"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="0.529999"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-dasharray="none"
+         stroke-opacity="1"
+         marker-end="url(#FilledArrow_Marker-3-0)" />
+      <path
+         d="M 333.22788,-11.615369 H 365.2148"
+         id="path16993"
+         fill="none"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="0.529999"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-dasharray="none"
+         stroke-opacity="1"
+         marker-end="url(#FilledArrow_Marker-3-0)" />
+      <g
+         id="g234638"
+         transform="matrix(0.18371969,0,0,0.18371969,250.86809,-157.01782)"
+         stroke-width="0.97"
+         fill="#ef2200"
+         fill-opacity="1"
+         stroke="none"
+         stroke-dasharray="none"
+         stroke-opacity="1">
+        <path
+           id="path234634"
+           d="m 566.6,403.16 -2,2 h -3 l -31,-31 v -3 l 2,-2 h 3 l 31,31 z" />
+        <path
+           id="path234636"
+           d="m 564.6,369.16 2,2 v 3 l -31,31 h -3 l -2,-2 v -3 l 31,-31 z" />
+      </g>
+      <path
+         d="m 351.72792,-82.082467 v 12.376166"
+         id="path234640"
+         fill="none"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="0.529999"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-dasharray="0.529166, 1.5875"
+         stroke-opacity="1"
+         marker-end="url(#FilledArrow_Marker_2-8-5-3)" />
+      <path
+         id="path234642"
+         d="m 351.72792,-37.426356 v 18.449969"
+         fill="none"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="0.529999"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-dasharray="0.529166, 1.5875"
+         stroke-opacity="1"
+         marker-end="url(#FilledArrow_Marker_2-8-5-3)" />
+      <g
+         transform="matrix(0.18371969,0,0,0.18371969,251.09809,-82.81628)"
+         id="g253932"
+         stroke-width="0.97"
+         fill="#ef2200"
+         fill-opacity="1"
+         stroke="none"
+         stroke-dasharray="none"
+         stroke-opacity="1">
+        <path
+           d="m 566.6,403.16 -2,2 h -3 l -31,-31 v -3 l 2,-2 h 3 l 31,31 z"
+           id="path253928" />
+        <path
+           d="m 564.6,369.16 2,2 v 3 l -31,31 h -3 l -2,-2 v -3 l 31,-31 z"
+           id="path253930" />
+      </g>
+      <rect
+         id="rect298709"
+         width="10.079983"
+         height="10.079983"
+         x="335.39789"
+         y="-31.406366"
+         ry="2.6099954"
+         rx="2.6099954"
+         opacity="0.98"
+         fill="none"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         stroke-opacity="1" />
+      <path
+         d="m 338.35794,-31.236366 v -2.019997 h 0.08"
+         id="path298711"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         id="path298713"
+         d="m 340.47794,-31.236366 v -2.019997 h 0.09"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         d="m 342.60793,-31.236366 v -2.019997 h 0.08"
+         id="path298715"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         id="path298717"
+         d="m 338.35794,-19.326387 v -2.019996 h 0.08"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         d="m 340.47794,-19.326387 v -2.019996 h 0.09"
+         id="path298719"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         id="path298721"
+         d="m 342.60793,-19.326387 v -2.019996 h 0.08"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         d="m 345.28793,-26.376375 h 2.01999 v 0.09"
+         id="path298723"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         id="path298725"
+         d="m 345.28793,-28.596371 h 2.01999 v 0.08"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         d="m 347.71473,-28.606495 2.55446,0.876686 v -1.753371 z"
+         id="path298727"
+         opacity="1"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         stroke-width="0.264271"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         stroke-opacity="1" />
+      <path
+         id="path298729"
+         d="m 333.37795,-28.496371 h 2.03 v 0.09"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         d="m 333.37795,-24.236378 h 2.03 v 0.09"
+         id="path298731"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         id="path298733"
+         d="m 345.28793,-24.236378 h 2.01999 v 0.09"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         d="m 333.37795,-26.376375 h 2.03 v 0.09"
+         id="path298735"
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="0.479999"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         id="path298739"
+         d="m 342.71793,-24.536378 -0.26,0.26 h -0.39 l -4.02999,-4.029993 v -0.39 l 0.26,-0.259999 h 0.4 l 4.01999,4.029993 z"
+         fill="#ef2200"
+         fill-opacity="1"
+         stroke="none"
+         stroke-width="0.18"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <path
+         id="path298741"
+         d="m 342.45793,-28.95637 0.26,0.259999 v 0.39 l -4.02999,4.029993 h -0.39 l -0.26,-0.26 v -0.399999 l 4.02999,-4.019993 z"
+         fill="#ef2200"
+         fill-opacity="1"
+         stroke="none"
+         stroke-width="0.18"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <g
+         id="g17042"
+         transform="translate(0.98877625,-105.92584)">
+        <text
+           id="text42-2-5"
+           x="274.04913"
+           y="52.469948"
+           font-size="3.16999px"
+           fill="#000000"
+           fill-opacity="1"
+           stroke="none"
+           stroke-width="0.26"
+           stroke-dasharray="none"
+           stroke-opacity="1"><tspan
+             font-size="6.34999px"
+             font-weight="700"
+             x="293.09909"
+             y="58.289932"
+             id="tspan40-4-6"
+             font-family="Tahoma, 'Nimbus Sans L'"
+             fill="#000000"
+             stroke-width="0.26">sideEffectOp</tspan></text>
+        <g
+           transform="matrix(0.1778497,0,0,0.1778497,267.64438,-0.63092703)"
+           id="g17023">
+          <g
+             transform="matrix(0.90477,0,0,0.90477,485,465.44)"
+             id="g17021"
+             fill="none"
+             stroke="#000000"
+             stroke-width="2"
+             stroke-miterlimit="4"
+             stroke-dasharray="none"
+             stroke-opacity="1">
+            <rect
+               id="rect16995"
+               width="54.540001"
+               height="54.540001"
+               x="-101"
+               y="-186"
+               ry="10.91"
+               rx="10.91"
+               opacity="0.98"
+               fill-opacity="1"
+               stroke-linecap="round"
+               stroke-linejoin="round"
+               stroke-dashoffset="0" />
+            <path
+               d="M -85,-185.1 V -196 h 0.45"
+               id="path16997"
+               fill-rule="evenodd"
+               stroke-linecap="butt"
+               stroke-linejoin="miter" />
+            <path
+               id="path16999"
+               d="M -73.5,-185.1 V -196 h 0.45"
+               fill-rule="evenodd"
+               stroke-linecap="butt"
+               stroke-linejoin="miter" />
+            <path
+               d="M -62,-185.1 V -196 h 0.45"
+               id="path17001"
+               fill-rule="evenodd"
+               stroke-linecap="butt"
+               stroke-linejoin="miter" />
+            <path
+               id="path17003"
+               d="m -85,-120.64 v -10.9 h 0.45"
+               fill-rule="evenodd"
+               stroke-linecap="butt"
+               stroke-linejoin="miter" />
+            <path
+               d="m -73.5,-120.64 v -10.9 h 0.45"
+               id="path17005"
+               fill-rule="evenodd"
+               stroke-linecap="butt"
+               stroke-linejoin="miter" />
+            <path
+               id="path17007"
+               d="m -62,-120.64 v -10.9 h 0.45"
+               fill-rule="evenodd"
+               stroke-linecap="butt"
+               stroke-linejoin="miter" />
+            <path
+               id="path17009"
+               d="m -47.48,-170.27 h 10.9 v 0.45"
+               fill-rule="evenodd"
+               stroke-linecap="butt"
+               stroke-linejoin="miter" />
+            <path
+               d="m -47.48,-158.77 h 10.9 v 0.45"
+               id="path17011"
+               fill-rule="evenodd"
+               stroke-linecap="butt"
+               stroke-linejoin="miter" />
+            <path
+               id="path17013"
+               d="m -47.48,-147.27 h 10.9 v 0.45"
+               fill-rule="evenodd"
+               stroke-linecap="butt"
+               stroke-linejoin="miter" />
+            <path
+               d="m -112.09,-170.27 h 10.9 v 0.45"
+               id="path17015"
+               fill-rule="evenodd"
+               stroke-linecap="butt"
+               stroke-linejoin="miter" />
+            <path
+               id="path17017"
+               d="m -112.09,-158.77 h 10.9 v 0.45"
+               fill-rule="evenodd"
+               stroke-linecap="butt"
+               stroke-linejoin="miter" />
+            <path
+               d="m -112.09,-147.27 h 10.9 v 0.45"
+               id="path17019"
+               fill-rule="evenodd"
+               stroke-linecap="butt"
+               stroke-linejoin="miter" />
+          </g>
+        </g>
+      </g>
+      <path
+         marker-end="url(#FilledArrow_Marker_2)"
+         stroke-opacity="1"
+         stroke-dasharray=".52916667,1.5875"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width=".53"
+         stroke="#000"
+         fill-opacity="1"
+         fill="none"
+         d="m 262.02193,12.531903 0.18899,-8.1264885 0.0717,-13.773601 5.41537,-10.1581995"
+         id="path13515"
+         inkscape:connector-curvature="0"
+         style="stroke:#f7ac09;stroke-width:0.53;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker13519)"
+         sodipodi:nodetypes="cccc" />
+      <path
+         marker-end="url(#FilledArrow_Marker_2)"
+         stroke-opacity="1"
+         stroke-dasharray=".52916667,1.5875"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width=".53"
+         stroke="#000"
+         fill-opacity="1"
+         fill="none"
+         d="m 262.21092,4.4054145 13.25375,-11.30149"
+         id="path13515-0"
+         inkscape:connector-curvature="0"
+         style="stroke:#f7ac09;stroke-width:0.53;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker13519-1)"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="218.66599"
+         y="11.599771"
+         id="text20541-1-7-8-0-0"
+         font-style="normal"
+         font-weight="400"
+         font-size="10.58px"
+         font-family="sans-serif"
+         letter-spacing="0"
+         word-spacing="0"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         stroke-width="0.26"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-opacity="1"><tspan
+           sodipodi:role="line"
+           id="tspan16948-7"
+           x="218.66599"
+           y="11.599771"
+           style="stroke-width:0.26">the element is</tspan><tspan
+           sodipodi:role="line"
+           x="218.66599"
+           y="18.655321"
+           style="stroke-width:0.26"
+           id="tspan24156">consumed before</tspan><tspan
+           sodipodi:role="line"
+           x="218.66599"
+           y="25.710871"
+           style="stroke-width:0.26"
+           id="tspan22168">passing down onNext </tspan></text>
+      <path
+         marker-end="url(#FilledArrow_Marker_2)"
+         stroke-opacity="1"
+         stroke-dasharray=".52916667,1.5875"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width=".53"
+         stroke="#000"
+         fill-opacity="1"
+         fill="none"
+         d="m 315.41097,12.531903 -0.18899,-8.1264885 -0.0717,-13.773601 -4.4858,-10.2481995"
+         id="path22188"
+         inkscape:connector-curvature="0"
+         style="stroke:#f7ac09;stroke-width:0.53;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker22204)"
+         sodipodi:nodetypes="cccc" />
+      <path
+         marker-end="url(#FilledArrow_Marker_2)"
+         stroke-opacity="1"
+         stroke-dasharray=".52916667,1.5875"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width=".53"
+         stroke="#000"
+         fill-opacity="1"
+         fill="none"
+         d="M 315.22198,4.4054145 298.56644,-11.242801"
+         id="path22190"
+         inkscape:connector-curvature="0"
+         style="stroke:#f7ac09;stroke-width:0.53;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker22194)"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="287.4577"
+         y="17.420603"
+         id="text24164"
+         font-style="normal"
+         font-weight="400"
+         font-size="10.58px"
+         font-family="sans-serif"
+         letter-spacing="0"
+         word-spacing="0"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         stroke-width="0.26"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-opacity="1"><tspan
+           sodipodi:role="line"
+           x="287.4577"
+           y="17.420603"
+           style="stroke-width:0.26"
+           id="tspan24160">the onComplete is</tspan><tspan
+           sodipodi:role="line"
+           x="287.4577"
+           y="24.476152"
+           style="stroke-width:0.26"
+           id="tspan24168">passed down then a</tspan><tspan
+           sodipodi:role="line"
+           x="287.4577"
+           y="31.531704"
+           style="stroke-width:0.26"
+           id="tspan24162">Runnable is trigerred </tspan></text>
+      <path
+         marker-end="url(#FilledArrow_Marker_2)"
+         stroke-opacity="1"
+         stroke-dasharray=".52916667,1.5875"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width=".53"
+         stroke="#000"
+         fill-opacity="1"
+         fill="none"
+         d="m 389.49435,12.531903 -0.18899,-8.1264885 -0.0717,-13.773601 -41.92574,-14.7781915"
+         id="path24240"
+         inkscape:connector-curvature="0"
+         style="stroke:#f7ac09;stroke-width:0.53;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker24264)"
+         sodipodi:nodetypes="cccc" />
+      <path
+         marker-end="url(#FilledArrow_Marker_2)"
+         stroke-opacity="1"
+         stroke-dasharray=".52916667,1.5875"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width=".53"
+         stroke="#000"
+         fill-opacity="1"
+         fill="none"
+         d="M 389.30536,4.4054145 355.19367,-8.7478495"
+         id="path24242"
+         inkscape:connector-curvature="0"
+         style="stroke:#f7ac09;stroke-width:0.53;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker24254)"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="361.54089"
+         y="17.420603"
+         id="text24250"
+         font-style="normal"
+         font-weight="400"
+         font-size="10.58px"
+         font-family="sans-serif"
+         letter-spacing="0"
+         word-spacing="0"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         stroke-width="0.26"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-opacity="1"><tspan
+           sodipodi:role="line"
+           x="361.54089"
+           y="17.420603"
+           style="stroke-width:0.26"
+           id="tspan24244">the error is consumed</tspan><tspan
+           sodipodi:role="line"
+           x="361.54089"
+           y="24.476152"
+           style="stroke-width:0.26"
+           id="tspan24248">then onError is passed down</tspan></text>
+    </g>
+    <g
+       id="g1742">
+      <g
+         id="g196244"
+         transform="matrix(0.16262972,0,0,0.16262972,247.02064,-36.61812)"
+         fill="none"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1">
+        <rect
+           rx="10.91"
+           ry="10.91"
+           y="-186"
+           x="-101"
+           height="54.540001"
+           width="54.540001"
+           id="rect196218"
+           opacity="0.98"
+           fill-opacity="1"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-dashoffset="0" />
+        <path
+           id="path196220"
+           d="M -85,-185.1 V -196 h 0.45"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="M -73.5,-185.1 V -196 h 0.45"
+           id="path196222"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path196224"
+           d="M -62,-185.1 V -196 h 0.45"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m -85,-120.64 v -10.9 h 0.45"
+           id="path196226"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path196228"
+           d="m -73.5,-120.64 v -10.9 h 0.45"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m -62,-120.64 v -10.9 h 0.45"
+           id="path196230"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m -47.48,-170.27 h 10.9 v 0.45"
+           id="path196232"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path196234"
+           d="m -47.48,-158.77 h 10.9 v 0.45"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m -47.48,-147.27 h 10.9 v 0.45"
+           id="path196236"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path196238"
+           d="m -112.09,-170.27 h 10.9 v 0.45"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m -112.09,-158.77 h 10.9 v 0.45"
+           id="path196240"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path196242"
+           d="m -112.09,-147.27 h 10.9 v 0.45"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+      </g>
+      <path
+         id="path196246"
+         d="m 236.87586,-62.592348 -3.35337,1.943684 v -3.887369 z"
+         opacity="0.82"
+         fill="none"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="0.718986"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         stroke-opacity="1" />
+      <g
+         id="g2813"
+         transform="matrix(0.99999829,0,0,0.99999829,216.9824,-185.01786)"
+         fill="none"
+         stroke="#000000"
+         stroke-width="0.32"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1">
+        <rect
+           rx="1.76"
+           ry="1.76"
+           y="118.44"
+           x="83.089996"
+           height="8.7799997"
+           width="8.7799997"
+           id="rect180373-8"
+           opacity="0.98"
+           fill-opacity="1"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-dashoffset="0" />
+        <path
+           id="path180375-9"
+           d="m 85.66,118.59 v -1.76 h 0.08"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 87.51,118.59 v -1.76 h 0.08"
+           id="path180377-3"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path180379-8"
+           d="m 89.37,118.59 v -1.76 h 0.07"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 85.66,128.96 v -1.76 h 0.08"
+           id="path180381-2"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path180383-6"
+           d="m 87.51,128.96 v -1.76 h 0.08"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 89.37,128.96 v -1.76 h 0.07"
+           id="path180385-5"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 91.7,120.97 h 1.76 v 0.07"
+           id="path180387-8"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path180389-4"
+           d="m 91.7,122.82 h 1.76 v 0.07"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 91.7,124.67 h 1.76 v 0.07"
+           id="path180391-8"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path180393-4"
+           d="m 81.3,120.97 h 1.76 v 0.07"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 81.3,122.82 h 1.76 v 0.07"
+           id="path180395-5"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path180397-0"
+           d="m 81.3,124.67 h 1.76 v 0.07"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+      </g>
+      <g
+         id="g15622-0-6"
+         transform="matrix(0.12994978,0,0,0.12994978,233.14237,-112.67798)"
+         stroke-width="1.37"
+         fill="#ef2200"
+         fill-opacity="1"
+         stroke="none"
+         stroke-dasharray="none"
+         stroke-opacity="1">
+        <path
+           id="path1034-1-4"
+           d="m 566.6,403.16 -2,2 h -3 l -31,-31 v -3 l 2,-2 h 3 l 31,31 z" />
+        <path
+           id="path1036-5-9"
+           d="m 564.6,369.16 2,2 v 3 l -31,31 h -3 l -2,-2 v -3 l 31,-31 z" />
+      </g>
+      <g
+         transform="matrix(0.1778497,0,0,0.1778497,256.41907,-119.88797)"
+         id="g187794-0">
+        <g
+           transform="matrix(0.90477,0,0,0.90477,485,465.44)"
+           id="g187790-8"
+           fill="none"
+           stroke="#000000"
+           stroke-width="2"
+           stroke-miterlimit="4"
+           stroke-dasharray="none"
+           stroke-opacity="1">
+          <rect
+             id="rect187764-0"
+             width="54.540001"
+             height="54.540001"
+             x="-101"
+             y="-186"
+             ry="10.91"
+             rx="10.91"
+             opacity="0.98"
+             fill-opacity="1"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-dashoffset="0" />
+          <path
+             d="M -85,-185.1 V -196 h 0.45"
+             id="path187766-3"
+             fill-rule="evenodd"
+             stroke-linecap="butt"
+             stroke-linejoin="miter" />
+          <path
+             id="path187768-0"
+             d="M -73.5,-185.1 V -196 h 0.45"
+             fill-rule="evenodd"
+             stroke-linecap="butt"
+             stroke-linejoin="miter" />
+          <path
+             d="M -62,-185.1 V -196 h 0.45"
+             id="path187770-6"
+             fill-rule="evenodd"
+             stroke-linecap="butt"
+             stroke-linejoin="miter" />
+          <path
+             id="path187772-9"
+             d="m -85,-120.64 v -10.9 h 0.45"
+             fill-rule="evenodd"
+             stroke-linecap="butt"
+             stroke-linejoin="miter" />
+          <path
+             d="m -73.5,-120.64 v -10.9 h 0.45"
+             id="path187774-5"
+             fill-rule="evenodd"
+             stroke-linecap="butt"
+             stroke-linejoin="miter" />
+          <path
+             id="path187776-4"
+             d="m -62,-120.64 v -10.9 h 0.45"
+             fill-rule="evenodd"
+             stroke-linecap="butt"
+             stroke-linejoin="miter" />
+          <path
+             id="path187778-3"
+             d="m -47.48,-170.27 h 10.9 v 0.45"
+             fill-rule="evenodd"
+             stroke-linecap="butt"
+             stroke-linejoin="miter" />
+          <path
+             d="m -47.48,-158.77 h 10.9 v 0.45"
+             id="path187780-8"
+             fill-rule="evenodd"
+             stroke-linecap="butt"
+             stroke-linejoin="miter" />
+          <path
+             id="path187782-0"
+             d="m -47.48,-147.27 h 10.9 v 0.45"
+             fill-rule="evenodd"
+             stroke-linecap="butt"
+             stroke-linejoin="miter" />
+          <path
+             d="m -112.09,-170.27 h 10.9 v 0.45"
+             id="path187784-4"
+             fill-rule="evenodd"
+             stroke-linecap="butt"
+             stroke-linejoin="miter" />
+          <path
+             id="path187786-9"
+             d="m -112.09,-158.77 h 10.9 v 0.45"
+             fill-rule="evenodd"
+             stroke-linecap="butt"
+             stroke-linejoin="miter" />
+          <path
+             d="m -112.09,-147.27 h 10.9 v 0.45"
+             id="path187788-8"
+             fill-rule="evenodd"
+             stroke-linecap="butt"
+             stroke-linejoin="miter" />
+        </g>
+      </g>
+      <g
+         id="g345150"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1"
+         transform="matrix(0.99999829,0,0,0.99999829,195.81572,-190.83785)">
+        <path
+           transform="matrix(0.13455,0,0,0.13508,-16.87,123.73)"
+           d="m 433.96,320.96 -28.32,16.35 v -32.7 z"
+           id="path234447"
+           opacity="0.82"
+           fill="none"
+           fill-opacity="1"
+           stroke="#000000"
+           stroke-width="7.85"
+           stroke-dashoffset="0" />
+        <rect
+           rx="2.6099999"
+           ry="2.6099999"
+           y="162.25"
+           x="34.380001"
+           height="10.08"
+           width="10.08"
+           id="rect234431"
+           opacity="0.98"
+           fill="none"
+           fill-opacity="1"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-dashoffset="0" />
+        <path
+           id="path234433"
+           d="m 37.34,162.41 v -2.01 h 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 39.46,162.41 v -2.01 h 0.09"
+           id="path234435"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path234437"
+           d="m 41.59,162.41 v -2.01 h 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 37.34,174.32 v -2.01 h 0.08"
+           id="path234439"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path234441"
+           d="m 39.46,174.32 v -2.01 h 0.09"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 41.59,174.32 v -2.01 h 0.08"
+           id="path234443"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path234445"
+           d="m 44.27,167.28 h 2.02 v 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 44.27,165.05 h 2.02 v 0.08"
+           id="path234449"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path234457"
+           d="m 433.96,320.96 -28.32,16.35 v -32.7 z"
+           transform="matrix(0.0902,0,0,0.05362,-6.83,147.91)"
+           opacity="1"
+           fill="#000000"
+           fill-opacity="1"
+           stroke="none"
+           stroke-width="3.8"
+           stroke-dashoffset="0" />
+        <path
+           d="m 32.36,165.16 h 2.02 v 0.08"
+           id="path234459"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path234461"
+           d="m 32.36,169.42 h 2.02 v 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 44.27,169.42 h 2.02 v 0.08"
+           id="path234501"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path242625"
+           d="m 32.36,167.28 h 2.02 v 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="350.10104"
+         y="-43.305962"
+         id="text20541-1-7-8-0"
+         font-style="normal"
+         font-weight="400"
+         font-size="10.58px"
+         font-family="sans-serif"
+         letter-spacing="0"
+         word-spacing="0"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         stroke-width="0.26"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-opacity="1"><tspan
+           sodipodi:role="line"
+           id="tspan16946"
+           x="350.10104"
+           y="-43.305962">concrete side effects occurring</tspan><tspan
+           sodipodi:role="line"
+           id="tspan16948"
+           x="350.10104"
+           y="-36.250412">BEFORE passing down signal </tspan></text>
+      <text
+         id="text234540"
+         y="-22.546013"
+         x="350.10104"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         xml:space="preserve"
+         font-style="normal"
+         font-weight="400"
+         font-size="10.58px"
+         font-family="sans-serif"
+         letter-spacing="0"
+         word-spacing="0"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         stroke-width="0.26"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-opacity="1"><tspan
+           sodipodi:role="line"
+           id="tspan16950"
+           x="350.10104"
+           y="-22.546013">concrete side effects occurring</tspan><tspan
+           sodipodi:role="line"
+           id="tspan16952"
+           x="350.10104"
+           y="-15.490462">AFTER passing down signal  </tspan></text>
+      <text
+         id="text234729"
+         y="-61.715958"
+         x="350.10104"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         xml:space="preserve"
+         font-style="normal"
+         font-weight="400"
+         font-size="10.58px"
+         font-family="sans-serif"
+         letter-spacing="0"
+         word-spacing="0"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         stroke-width="0.26"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-opacity="1">as parameter</text>
+      <g
+         transform="matrix(0.16090972,0,0,0.16090972,282.94059,-36.76812)"
+         id="g180274-2"
+         fill="none"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1">
+        <rect
+           id="rect180248-8"
+           width="54.540001"
+           height="54.540001"
+           x="-101"
+           y="-186"
+           ry="10.91"
+           rx="10.91"
+           opacity="0.98"
+           fill-opacity="1"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-dashoffset="0" />
+        <path
+           d="M -85,-185.1 V -196 h 0.45"
+           id="path180250-4"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path180252-3"
+           d="M -73.5,-185.1 V -196 h 0.45"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="M -62,-185.1 V -196 h 0.45"
+           id="path180254-1"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path180256-1"
+           d="m -85,-120.64 v -10.9 h 0.45"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m -73.5,-120.64 v -10.9 h 0.45"
+           id="path180258-8"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path180260-8"
+           d="m -62,-120.64 v -10.9 h 0.45"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path180262-8"
+           d="m -47.48,-170.27 h 10.9 v 0.45"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m -47.48,-158.77 h 10.9 v 0.45"
+           id="path180264-7"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path180266-2"
+           d="m -47.48,-147.27 h 10.9 v 0.45"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m -112.09,-170.27 h 10.9 v 0.45"
+           id="path180268-4"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path180270-2"
+           d="m -112.09,-158.77 h 10.9 v 0.45"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m -112.09,-147.27 h 10.9 v 0.45"
+           id="path180272-9"
+           fill-rule="evenodd"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+      </g>
+      <circle
+         cx="270.97067"
+         cy="-62.218094"
+         id="circle252552"
+         r="3.0099947"
+         fill="#ffffff"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="0.26"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-dasharray="none"
+         stroke-opacity="1" />
+      <g
+         id="g345133"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1"
+         transform="matrix(0.99999829,0,0,0.99999829,195.81572,-190.83785)">
+        <path
+           id="path269168"
+           d="m 433.96,320.96 -28.32,16.35 v -32.7 z"
+           transform="matrix(0.13455,0,0,0.13508,-17.4,104.22)"
+           opacity="0.82"
+           fill="none"
+           fill-opacity="1"
+           stroke="#000000"
+           stroke-width="7.85"
+           stroke-dashoffset="0" />
+        <rect
+           id="rect269170"
+           width="10.08"
+           height="10.08"
+           x="33.849998"
+           y="142.74001"
+           ry="2.6099999"
+           rx="2.6099999"
+           opacity="0.98"
+           fill="none"
+           fill-opacity="1"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-dashoffset="0" />
+        <path
+           d="m 36.81,142.9 v -2.01 h 0.09"
+           id="path269172"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path269174"
+           d="m 38.94,142.9 v -2.01 h 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 41.06,142.9 v -2.01 h 0.09"
+           id="path269176"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path269178"
+           d="M 36.81,154.81 V 152.8 H 36.9"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 38.94,154.81 v -2.01 h 0.08"
+           id="path269180"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path269182"
+           d="m 41.06,154.81 v -2.01 h 0.09"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 43.74,147.77 h 2.02 v 0.08"
+           id="path269184"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path269186"
+           d="m 43.74,145.54 h 2.02 v 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           transform="matrix(-0.0902,0,0,0.05362,85.31,128.33)"
+           d="m 433.96,320.96 -28.32,16.35 v -32.7 z"
+           id="path269188"
+           opacity="1"
+           fill="#000000"
+           fill-opacity="1"
+           stroke="none"
+           stroke-width="3.8"
+           stroke-dashoffset="0" />
+        <path
+           id="path269190"
+           d="m 31.84,145.65 h 2.01 v 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 31.84,149.9 h 2.01 v 0.1"
+           id="path269192"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path269194"
+           d="m 43.74,149.9 h 2.02 v 0.1"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 31.84,147.77 h 2.01 v 0.08"
+           id="path269196"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+      </g>
+      <g
+         id="g345203"
+         stroke-dasharray="none"
+         stroke-opacity="1"
+         transform="matrix(0.99999829,0,0,0.99999829,216.9824,-190.83785)">
+        <rect
+           id="rect269322"
+           width="10.08"
+           height="10.08"
+           x="83.040001"
+           y="143.14999"
+           ry="2.6099999"
+           rx="2.6099999"
+           opacity="0.98"
+           fill="none"
+           fill-opacity="1"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-miterlimit="4"
+           stroke-dashoffset="0" />
+        <path
+           d="m 86,143.32 v -2.01 h 0.08"
+           id="path269324"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           id="path269326"
+           d="m 88.13,143.32 v -2.01 h 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           d="m 90.25,143.32 v -2.01 h 0.09"
+           id="path269328"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           id="path269330"
+           d="m 86,155.23 v -2.01 h 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           d="m 88.13,155.23 v -2.01 h 0.08"
+           id="path269332"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           id="path269334"
+           d="m 90.25,155.23 v -2.01 h 0.09"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           d="m 92.93,148.19 h 2.02 v 0.08"
+           id="path269336"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           id="path269338"
+           d="m 92.93,145.96 h 2.02 v 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           transform="matrix(-0.0902,0,0,0.05362,134.5,128.75)"
+           d="m 433.96,320.96 -28.32,16.35 v -32.7 z"
+           id="path269340"
+           opacity="1"
+           fill="#000000"
+           fill-opacity="1"
+           stroke="none"
+           stroke-width="3.8"
+           stroke-miterlimit="4"
+           stroke-dashoffset="0" />
+        <path
+           id="path269342"
+           d="m 81.03,146.07 h 2.01 v 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           d="m 81.03,150.33 h 2.01 v 0.08"
+           id="path269344"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           id="path269346"
+           d="m 92.93,150.33 h 2.02 v 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           d="m 81.03,148.19 h 2.01 v 0.08"
+           id="path269348"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <g
+           transform="matrix(0.12995,0,0,0.12995,16.74,97.63)"
+           id="g269483"
+           stroke-width="1.37"
+           fill="#ef2200"
+           fill-opacity="1"
+           stroke="none">
+          <path
+             d="m 566.6,403.16 -2,2 h -3 l -31,-31 v -3 l 2,-2 h 3 l 31,31 z"
+             id="path269479" />
+          <path
+             d="m 564.6,369.16 2,2 v 3 l -31,31 h -3 l -2,-2 v -3 l 31,-31 z"
+             id="path269481" />
+        </g>
+      </g>
+      <g
+         id="g345184"
+         stroke-dasharray="none"
+         stroke-opacity="1"
+         transform="matrix(0.99999829,0,0,0.99999829,206.39906,-190.83785)">
+        <rect
+           rx="2.6099999"
+           ry="2.6099999"
+           y="142.75"
+           x="59.25"
+           height="10.08"
+           width="10.08"
+           id="rect269288"
+           opacity="0.98"
+           fill="none"
+           fill-opacity="1"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-miterlimit="4"
+           stroke-dashoffset="0" />
+        <path
+           id="path269290"
+           d="m 62.2,142.92 v -2.02 h 0.1"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           d="m 64.33,142.92 v -2.02 h 0.09"
+           id="path269292"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           id="path269294"
+           d="m 66.46,142.92 v -2.02 h 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           d="m 62.2,154.83 v -2.02 h 0.1"
+           id="path269296"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           id="path269298"
+           d="m 64.33,154.83 v -2.02 h 0.09"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           d="m 66.46,154.83 v -2.02 h 0.08"
+           id="path269300"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           id="path269302"
+           d="m 69.14,147.78 h 2.02 v 0.09"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           d="m 69.14,145.55 h 2.02 v 0.09"
+           id="path269304"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           id="path269306"
+           d="m 433.96,320.96 -28.32,16.35 v -32.7 z"
+           transform="matrix(-0.0902,0,0,0.05362,110.71,128.34)"
+           opacity="1"
+           fill="#000000"
+           fill-opacity="1"
+           stroke="none"
+           stroke-width="3.8"
+           stroke-miterlimit="4"
+           stroke-dashoffset="0" />
+        <path
+           d="m 57.24,145.67 h 2.01 v 0.08"
+           id="path269308"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           id="path269310"
+           d="m 57.24,149.92 h 2.01 v 0.09"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           d="m 69.14,149.92 h 2.02 v 0.09"
+           id="path269312"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           id="path269314"
+           d="m 57.24,147.78 h 2.01 v 0.09"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <circle
+           r="3.01"
+           id="circle269485"
+           cy="147.64"
+           cx="64.379997"
+           fill="#6cb33e"
+           fill-opacity="1"
+           stroke="#000000"
+           stroke-width="0.26"
+           stroke-linecap="round"
+           stroke-linejoin="round" />
+      </g>
+      <g
+         id="g345167"
+         stroke-dasharray="none"
+         stroke-opacity="1"
+         transform="matrix(0.99999829,0,0,0.99999829,206.39906,-190.83785)">
+        <rect
+           id="rect275782"
+           width="10.08"
+           height="10.08"
+           x="59.779999"
+           y="162.25"
+           ry="2.6099999"
+           rx="2.6099999"
+           opacity="0.98"
+           fill="none"
+           fill-opacity="1"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-miterlimit="4"
+           stroke-dashoffset="0" />
+        <path
+           d="m 62.74,162.41 v -2.01 h 0.08"
+           id="path275784"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           id="path275786"
+           d="m 64.86,162.41 v -2.01 h 0.09"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           d="m 66.99,162.41 v -2.01 h 0.08"
+           id="path275788"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           id="path275790"
+           d="m 62.74,174.32 v -2.01 h 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           d="m 64.86,174.32 v -2.01 h 0.09"
+           id="path275792"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           id="path275794"
+           d="m 66.99,174.32 v -2.01 h 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           d="m 69.67,167.28 h 2.02 v 0.08"
+           id="path275796"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           id="path275798"
+           d="m 69.67,165.05 h 2.02 v 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           transform="matrix(0.0902,0,0,0.05362,18.57,147.91)"
+           d="m 433.96,320.96 -28.32,16.35 v -32.7 z"
+           id="path275800"
+           opacity="1"
+           fill="#000000"
+           fill-opacity="1"
+           stroke="none"
+           stroke-width="3.8"
+           stroke-miterlimit="4"
+           stroke-dashoffset="0" />
+        <path
+           id="path275802"
+           d="m 57.76,165.16 h 2.02 v 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           d="m 57.76,169.42 h 2.02 v 0.08"
+           id="path275804"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           id="path275806"
+           d="m 69.67,169.42 h 2.02 v 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           d="m 57.76,167.28 h 2.02 v 0.08"
+           id="path275808"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <circle
+           cx="64.830002"
+           cy="167.23"
+           id="circle275914"
+           r="3.01"
+           fill="#6cb33e"
+           fill-opacity="1"
+           stroke="#000000"
+           stroke-width="0.26"
+           stroke-linecap="round"
+           stroke-linejoin="round" />
+      </g>
+      <g
+         id="g345222"
+         stroke-dasharray="none"
+         stroke-opacity="1"
+         transform="matrix(0.99999829,0,0,0.99999829,216.9824,-190.83785)">
+        <rect
+           rx="2.6099999"
+           ry="2.6099999"
+           y="162.25"
+           x="83.059998"
+           height="10.08"
+           width="10.08"
+           id="rect275816"
+           opacity="0.98"
+           fill="none"
+           fill-opacity="1"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-miterlimit="4"
+           stroke-dashoffset="0" />
+        <path
+           id="path275818"
+           d="m 86.02,162.41 v -2.01 h 0.09"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           d="m 88.15,162.41 v -2.01 h 0.08"
+           id="path275820"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           id="path275822"
+           d="m 90.27,162.41 v -2.01 h 0.09"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           d="m 86.02,174.32 v -2.01 h 0.09"
+           id="path275824"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           id="path275826"
+           d="m 88.15,174.32 v -2.01 h 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           d="m 90.27,174.32 v -2.01 h 0.09"
+           id="path275828"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           id="path275830"
+           d="m 92.95,167.28 h 2.02 v 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           d="m 92.95,165.05 h 2.02 v 0.08"
+           id="path275832"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           id="path275834"
+           d="m 433.96,320.96 -28.32,16.35 v -32.7 z"
+           transform="matrix(0.0902,0,0,0.05362,41.86,147.91)"
+           opacity="1"
+           fill="#000000"
+           fill-opacity="1"
+           stroke="none"
+           stroke-width="3.8"
+           stroke-miterlimit="4"
+           stroke-dashoffset="0" />
+        <path
+           d="m 81.05,165.16 h 2.01 v 0.08"
+           id="path275836"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           id="path275838"
+           d="m 81.05,169.42 h 2.01 v 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           d="m 92.95,169.42 h 2.02 v 0.08"
+           id="path275840"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <path
+           id="path275842"
+           d="m 81.05,167.28 h 2.01 v 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="4" />
+        <g
+           id="g275920"
+           transform="matrix(0.12995,0,0,0.12995,16.96,116.99)"
+           stroke-width="1.37"
+           fill="#ef2200"
+           fill-opacity="1"
+           stroke="none">
+          <path
+             id="path275916"
+             d="m 566.6,403.16 -2,2 h -3 l -31,-31 v -3 l 2,-2 h 3 l 31,31 z" />
+          <path
+             id="path275918"
+             d="m 564.6,369.16 2,2 v 3 l -31,31 h -3 l -2,-2 v -3 l 31,-31 z" />
+        </g>
+      </g>
+      <g
+         id="g345254"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1"
+         transform="matrix(0.99999829,0,0,0.99999829,221.74493,-190.83785)">
+        <rect
+           rx="2.6099999"
+           ry="2.6099999"
+           y="143.14999"
+           x="104.21"
+           height="10.08"
+           width="10.08"
+           id="rect306233"
+           opacity="0.98"
+           fill="none"
+           fill-opacity="1"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-dashoffset="0" />
+        <path
+           id="path306235"
+           d="m 107.17,143.32 v -2.01 h 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 109.3,143.32 v -2.01 h 0.08"
+           id="path306237"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path306239"
+           d="m 111.42,143.32 v -2.01 h 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 107.17,155.23 v -2.01 h 0.08"
+           id="path306241"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path306243"
+           d="m 109.3,155.23 v -2.01 h 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 111.42,155.23 v -2.01 h 0.08"
+           id="path306245"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path306247"
+           d="m 114.1,148.19 h 2.02 v 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 114.1,145.96 h 2.02 v 0.08"
+           id="path306249"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path306251"
+           d="m 433.96,320.96 -28.32,16.35 v -32.7 z"
+           transform="matrix(-0.0902,0,0,0.05362,155.67,128.75)"
+           opacity="1"
+           fill="#000000"
+           fill-opacity="1"
+           stroke="none"
+           stroke-width="3.8"
+           stroke-dashoffset="0" />
+        <path
+           d="m 102.2,146.07 h 2 v 0.08"
+           id="path306253"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path306255"
+           d="m 102.2,150.33 h 2 v 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 114.1,150.33 h 2.02 v 0.08"
+           id="path306257"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path306259"
+           d="m 102.2,148.19 h 2 v 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+      </g>
+      <g
+         id="g345238"
+         stroke-miterlimit="4"
+         stroke-dasharray="none"
+         stroke-opacity="1"
+         transform="matrix(0.99999829,0,0,0.99999829,221.74493,-190.83785)">
+        <rect
+           id="rect306271"
+           width="10.08"
+           height="10.08"
+           x="104.23"
+           y="162.25"
+           ry="2.6099999"
+           rx="2.6099999"
+           opacity="0.98"
+           fill="none"
+           fill-opacity="1"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-dashoffset="0" />
+        <path
+           d="m 107.19,162.41 v -2.01 h 0.08"
+           id="path306273"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path306275"
+           d="m 109.31,162.41 v -2.01 h 0.09"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 111.44,162.41 v -2.01 h 0.08"
+           id="path306277"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path306279"
+           d="m 107.19,174.32 v -2.01 h 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 109.31,174.32 v -2.01 h 0.09"
+           id="path306281"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path306283"
+           d="m 111.44,174.32 v -2.01 h 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 114.12,167.28 h 2.02 v 0.08"
+           id="path306285"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path306287"
+           d="m 114.12,165.05 h 2.02 v 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           transform="matrix(0.0902,0,0,0.05362,63.02,147.91)"
+           d="m 433.96,320.96 -28.32,16.35 v -32.7 z"
+           id="path306289"
+           opacity="1"
+           fill="#000000"
+           fill-opacity="1"
+           stroke="none"
+           stroke-width="3.8"
+           stroke-dashoffset="0" />
+        <path
+           id="path306291"
+           d="m 102.21,165.16 h 2.02 v 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 102.21,169.42 h 2.02 v 0.08"
+           id="path306293"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           id="path306295"
+           d="m 114.12,169.42 h 2.02 v 0.08"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+        <path
+           d="m 102.21,167.28 h 2.02 v 0.08"
+           id="path306297"
+           fill="none"
+           fill-rule="evenodd"
+           stroke="#000000"
+           stroke-width="0.48"
+           stroke-linecap="butt"
+           stroke-linejoin="miter" />
+      </g>
+      <text
+         id="text234729-5"
+         y="-77.080421"
+         x="222.91637"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         xml:space="preserve"
+         font-style="normal"
+         font-weight="400"
+         font-size="10.58px"
+         font-family="sans-serif"
+         letter-spacing="0"
+         word-spacing="0"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         stroke-width="0.26"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-opacity="1">Runnable</text>
+      <text
+         id="text16971"
+         y="-85.186035"
+         x="254.79312"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         xml:space="preserve"
+         font-style="normal"
+         font-weight="400"
+         font-size="10.58px"
+         font-family="sans-serif"
+         letter-spacing="0"
+         word-spacing="0"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         stroke-width="0.26"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-opacity="1"><tspan
+           sodipodi:role="line"
+           id="tspan16973"
+           x="254.79312"
+           y="-85.186035">Consumer</tspan><tspan
+           sodipodi:role="line"
+           id="tspan16975"
+           x="254.79312"
+           y="-78.130486">(onNext)</tspan></text>
+      <text
+         id="text16981"
+         y="-85.186035"
+         x="289.22208"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         xml:space="preserve"
+         font-style="normal"
+         font-weight="400"
+         font-size="10.58px"
+         font-family="sans-serif"
+         letter-spacing="0"
+         word-spacing="0"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         stroke-width="0.26"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-opacity="1"><tspan
+           sodipodi:role="line"
+           id="tspan16977"
+           x="289.22208"
+           y="-85.186035">Consumer</tspan><tspan
+           sodipodi:role="line"
+           id="tspan16979"
+           x="289.22208"
+           y="-78.130486">(onError)</tspan></text>
+      <text
+         id="text16987"
+         y="-77.069397"
+         x="323.45804"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         xml:space="preserve"
+         font-style="normal"
+         font-weight="400"
+         font-size="10.58px"
+         font-family="sans-serif"
+         letter-spacing="0"
+         word-spacing="0"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         stroke-width="0.26"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-opacity="1"><tspan
+           sodipodi:role="line"
+           id="tspan16985"
+           x="323.45804"
+           y="-77.069397">misc</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 218.20496,-72.751901 H 442.17682"
+         id="path1303"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 218.20496,-53.172731 H 442.17682"
+         id="path1305"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 218.20496,-33.064397 H 442.17682"
+         id="path1307"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 251.94773,-90.541439 v 76.30545"
+         id="path1311"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 286.87274,-90.541439 v 76.30545"
+         id="path1313"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 320.73941,-90.541439 v 76.30545"
+         id="path1315"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 346.13942,-90.541439 v 76.30545"
+         id="path1317"
+         sodipodi:nodetypes="cc" />
+    </g>
+  </g>
+</svg>

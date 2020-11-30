@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="195.49557mm"
+   height="134.71521mm"
+   viewBox="0 0 195.49557 134.71521"
+   version="1.1"
+   id="svg3340"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   sodipodi:docname="legend-operator-companion.svg">
+  <defs
+     id="defs3334">
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="FilledArrow_Marker-3-8-0"
+       stroke-miterlimit="10"
+       viewBox="-1 -6 14 12"
+       markerWidth="14"
+       markerHeight="12"
+       color="#000000"
+       stroke-linejoin="miter">
+      <g
+         id="g6-6-3-9">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 12,0 0,-4 v 9 z"
+           id="path4-7-7"
+           fill="currentColor"
+           stroke="currentColor"
+           stroke-width="1" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="marker3216"
+       stroke-miterlimit="10"
+       viewBox="-1 -6 14 12"
+       markerWidth="14"
+       markerHeight="12"
+       color="#000000"
+       stroke-linejoin="miter">
+      <g
+         id="g3214">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 12,0 0,-4 v 9 z"
+           id="path3212"
+           fill="currentColor"
+           stroke="currentColor"
+           stroke-width="1" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="FilledArrow_Marker_2-5-2-4"
+       stroke-miterlimit="10"
+       viewBox="-1 -5 11 10"
+       markerWidth="11"
+       markerHeight="10"
+       color="#000000"
+       stroke-linejoin="miter">
+      <g
+         id="g11-3-8">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 8,0 0,-3 v 6 z"
+           id="path9-5-50-3"
+           fill="currentColor"
+           stroke="currentColor"
+           stroke-width="1" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="marker3225"
+       stroke-miterlimit="10"
+       viewBox="-1 -5 11 10"
+       markerWidth="11"
+       markerHeight="10"
+       color="#000000"
+       stroke-linejoin="miter">
+      <g
+         id="g3223">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 8,0 0,-3 v 6 z"
+           id="path3221"
+           fill="currentColor"
+           stroke="currentColor"
+           stroke-width="1" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="marker3231"
+       stroke-miterlimit="10"
+       viewBox="-1 -5 11 10"
+       markerWidth="11"
+       markerHeight="10"
+       color="#000000"
+       stroke-linejoin="miter">
+      <g
+         id="g3229">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 8,0 0,-3 v 6 z"
+           id="path3227"
+           fill="currentColor"
+           stroke="currentColor"
+           stroke-width="1" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="marker3237"
+       stroke-miterlimit="10"
+       viewBox="-1 -5 11 10"
+       markerWidth="11"
+       markerHeight="10"
+       color="#000000"
+       stroke-linejoin="miter">
+      <g
+         id="g3235">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 8,0 0,-3 v 6 z"
+           id="path3233"
+           fill="currentColor"
+           stroke="currentColor"
+           stroke-width="1" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="marker3243"
+       stroke-miterlimit="10"
+       viewBox="-1 -5 11 10"
+       markerWidth="11"
+       markerHeight="10"
+       color="#000000"
+       stroke-linejoin="miter">
+      <g
+         id="g3241">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 8,0 0,-3 v 6 z"
+           id="path3239"
+           fill="currentColor"
+           stroke="currentColor"
+           stroke-width="1" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="marker3249"
+       stroke-miterlimit="10"
+       viewBox="-1 -5 11 10"
+       markerWidth="11"
+       markerHeight="10"
+       color="#000000"
+       stroke-linejoin="miter">
+      <g
+         id="g3247">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 8,0 0,-3 v 6 z"
+           id="path3245"
+           fill="currentColor"
+           stroke="currentColor"
+           stroke-width="1" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="FilledArrow_Marker_3-3-29-8"
+       stroke-miterlimit="10"
+       viewBox="-1 -5 11 10"
+       markerWidth="11"
+       markerHeight="10"
+       color="#45b8de"
+       stroke-linejoin="miter">
+      <g
+         id="g16-6-8-1">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 8,0 0,-3 v 6 z"
+           id="path14-7-7-2"
+           fill="currentColor"
+           stroke="currentColor"
+           stroke-width="1" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="marker3258"
+       stroke-miterlimit="10"
+       viewBox="-1 -5 11 10"
+       markerWidth="11"
+       markerHeight="10"
+       color="#45b8de"
+       stroke-linejoin="miter">
+      <g
+         id="g3256">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 8,0 0,-3 v 6 z"
+           id="path3254"
+           fill="currentColor"
+           stroke="currentColor"
+           stroke-width="1" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="FilledArrow_Marker-5-2-1-6-9"
+       stroke-miterlimit="10"
+       viewBox="-1 -6 14 12"
+       markerWidth="14"
+       markerHeight="12"
+       color="#000000"
+       stroke-linejoin="miter">
+      <g
+         id="g4-3-7-2-2-6">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 12,0 0,-4 v 9 z"
+           id="path2-5-0-7-9-5"
+           fill="currentColor"
+           stroke="currentColor"
+           stroke-width="1" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="FilledArrow_Marker-75-2"
+       stroke-miterlimit="10"
+       viewBox="-1 -6 14 12"
+       markerWidth="14"
+       markerHeight="12"
+       color="#000000"
+       stroke-linejoin="miter">
+      <g
+         id="g6-1-3">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 12,0 0,-4 v 9 z"
+           id="path4-13-9"
+           fill="currentColor"
+           stroke="currentColor"
+           stroke-width="1" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="marker3270"
+       stroke-miterlimit="10"
+       viewBox="-1 -5 11 10"
+       markerWidth="11"
+       markerHeight="10"
+       color="#45b8de"
+       stroke-linejoin="miter">
+      <g
+         id="g3268">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 8,0 0,-3 v 6 z"
+           id="path3266"
+           fill="currentColor"
+           stroke="currentColor"
+           stroke-width="1" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="marker3276"
+       stroke-miterlimit="10"
+       viewBox="-1 -5 11 10"
+       markerWidth="11"
+       markerHeight="10"
+       color="#45b8de"
+       stroke-linejoin="miter">
+      <g
+         id="g3274">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 8,0 0,-3 v 6 z"
+           id="path3272"
+           fill="currentColor"
+           stroke="currentColor"
+           stroke-width="1" />
+      </g>
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker80577-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DiamondS"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.2)"
+         style="fill:#f7ac09;fill-opacity:1;fill-rule:evenodd;stroke:#f7ac09;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path80575-0" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:stockid="DiamondS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker80577-1-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path80575-0-5"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         style="fill:#f7ac09;fill-opacity:1;fill-rule:evenodd;stroke:#f7ac09;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-184.84529"
+     inkscape:cy="-145.4201"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="5"
+     lock-margins="true"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     inkscape:window-width="1252"
+     inkscape:window-height="1174"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3337">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-154.74032,-186.6424)">
+    <path
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#000000"
+       fill-opacity="1"
+       fill="#ffffff"
+       id="path38-4"
+       d="m 206.63089,206.95739 h 134.13977 l 0.26,0.64 v 59.6099 l -0.26,0.64 H 206.62088 l -0.25999,-0.64 v -59.6099 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="marker-end:url(#FilledArrow_Marker-3-8-0)"
+       marker-end="url(#FilledArrow_Marker-3-8-0)"
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#000000"
+       fill-opacity="1"
+       fill="none"
+       d="M 201.3309,295.36724 H 337.33066"
+       id="line53-2"
+       inkscape:connector-curvature="0" />
+    <path
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-width="0.26"
+       stroke="none"
+       fill-opacity="1"
+       fill="#000000"
+       d="m 332.03067,289.01726 0.53,0.53 v 11.63997 l -0.53,0.53 -0.52,-0.53 v -11.63997 z"
+       id="path56"
+       inkscape:connector-curvature="0" />
+    <path
+       style="marker-end:url(#FilledArrow_Marker-3-8-0)"
+       marker-end="url(#FilledArrow_Marker-3-8-0)"
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#000000"
+       fill-opacity="1"
+       fill="none"
+       d="M 201.8609,197.99741 H 338.12066"
+       id="line60"
+       inkscape:connector-curvature="0" />
+    <circle
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#000000"
+       fill-opacity="1"
+       fill="#6cb33e"
+       r="6.0899897"
+       cx="294.20071"
+       cy="197.99739"
+       id="ellipse65" />
+    <circle
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#000000"
+       fill-opacity="1"
+       fill="#e6ba31"
+       r="6.0899897"
+       cx="314.04074"
+       cy="197.99739"
+       id="ellipse70" />
+    <path
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-width="0.26"
+       stroke="none"
+       fill-opacity="1"
+       fill="#000000"
+       d="m 332.03067,191.64742 0.53,0.53 v 11.63998 l -0.53,0.53 -0.52,-0.53 v -11.63998 z"
+       id="path78"
+       inkscape:connector-curvature="0" />
+    <path
+       style="marker-end:url(#FilledArrow_Marker_2-5-2-4)"
+       marker-end="url(#FilledArrow_Marker_2-5-2-4)"
+       stroke-opacity="1"
+       stroke-dasharray="0.529167, 1.5875"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#000000"
+       fill-opacity="1"
+       fill="none"
+       d="m 294.20074,204.0874 0.26,44.17993"
+       id="line81"
+       inkscape:connector-curvature="0" />
+    <path
+       style="marker-end:url(#FilledArrow_Marker_2-5-2-4)"
+       marker-end="url(#FilledArrow_Marker_2-5-2-4)"
+       stroke-opacity="1"
+       stroke-dasharray="0.529167, 1.5875"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#000000"
+       fill-opacity="1"
+       fill="none"
+       d="m 314.0407,204.0874 0.27,44.44993"
+       id="line84-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="marker-end:url(#FilledArrow_Marker_2-5-2-4)"
+       marker-end="url(#FilledArrow_Marker_2-5-2-4)"
+       stroke-opacity="1"
+       stroke-dasharray="0.529167, 1.5875"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#000000"
+       fill-opacity="1"
+       fill="none"
+       d="m 332.03067,204.3474 v 44.44993"
+       id="line118"
+       inkscape:connector-curvature="0" />
+    <path
+       style="marker-end:url(#FilledArrow_Marker_2-5-2-4)"
+       marker-end="url(#FilledArrow_Marker_2-5-2-4)"
+       stroke-opacity="1"
+       stroke-dasharray="0.529167, 1.5875"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#000000"
+       fill-opacity="1"
+       fill="none"
+       d="m 294.73074,268.11729 v 15.59998"
+       id="line129"
+       inkscape:connector-curvature="0" />
+    <path
+       style="marker-end:url(#FilledArrow_Marker_2-5-2-4)"
+       marker-end="url(#FilledArrow_Marker_2-5-2-4)"
+       stroke-opacity="1"
+       stroke-dasharray="0.529167, 1.5875"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#000000"
+       fill-opacity="1"
+       fill="none"
+       d="m 314.5707,267.84729 0.27,15.87998"
+       id="line132"
+       inkscape:connector-curvature="0" />
+    <path
+       style="marker-end:url(#FilledArrow_Marker_2-5-2-4)"
+       marker-end="url(#FilledArrow_Marker_2-5-2-4)"
+       stroke-opacity="1"
+       stroke-dasharray="0.529167, 1.5875"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#000000"
+       fill-opacity="1"
+       fill="none"
+       d="m 332.03067,267.84729 v 15.87998"
+       id="line138"
+       inkscape:connector-curvature="0" />
+    <circle
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#000000"
+       fill-opacity="1"
+       fill="#6cb33e"
+       r="6.0899897"
+       cx="294.73074"
+       cy="295.36734"
+       id="ellipse143" />
+    <circle
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-miterlimit="4"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#000000"
+       fill-opacity="1"
+       fill="#e6ba31"
+       r="6.0899897"
+       cx="314.84073"
+       cy="295.36734"
+       id="ellipse148" />
+    <path
+       style="marker-end:url(#FilledArrow_Marker_3-3-29-8)"
+       marker-end="url(#FilledArrow_Marker_3-3-29-8)"
+       stroke-opacity="1"
+       stroke-dasharray="0.529167, 1.5875"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#45b8de"
+       fill-opacity="1"
+       fill="none"
+       d="M 214.56087,295.09725 V 272.34729"
+       id="line86"
+       inkscape:connector-curvature="0" />
+    <text
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-width="0.26"
+       stroke="none"
+       fill-opacity="1"
+       fill="#45b8de"
+       font-size="2.90999px"
+       y="198.72922"
+       x="-308.23096"
+       transform="matrix(0,-0.95024254,1.0523629,0,0,0)"
+       id="text91-9"><tspan
+         stroke-width="0.26"
+         fill="#45b8de"
+         font-family="Tahoma, 'Nimbus Sans L'"
+         font-size="3.44001px"
+         font-weight="400"
+         x="-308.23096"
+         y="201.90918"
+         id="tspan89-5">subscribe()</tspan></text>
+    <path
+       style="marker-end:url(#FilledArrow_Marker_3-3-29-8)"
+       marker-end="url(#FilledArrow_Marker_3-3-29-8)"
+       stroke-opacity="1"
+       stroke-dasharray="0.529167, 1.5875"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#45b8de"
+       fill-opacity="1"
+       fill="none"
+       d="M 250.63081,223.59737 V 202.9274"
+       id="line1037"
+       inkscape:connector-curvature="0" />
+    <text
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-width="0.26"
+       stroke="none"
+       fill-opacity="1"
+       fill="#45b8de"
+       font-size="2.90999px"
+       id="text1041"
+       transform="matrix(0,-0.95024254,1.0523629,0,0,0)"
+       x="-235.43127"
+       y="232.88904"><tspan
+         stroke-width="0.26"
+         fill="#45b8de"
+         font-family="Tahoma, 'Nimbus Sans L'"
+         id="tspan1039"
+         y="236.32904"
+         x="-235.43127"
+         font-weight="400"
+         font-size="3.44001px">subscribe()</tspan></text>
+    <text
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-width="0.26"
+       stroke="none"
+       fill-opacity="1"
+       fill="#000000"
+       font-size="3.17px"
+       y="256.73743"
+       x="206.8909"
+       id="text42-2"><tspan
+         stroke-width="0.26"
+         fill="#000000"
+         font-family="Tahoma, 'Nimbus Sans L'"
+         id="tspan40-4"
+         y="262.5574"
+         x="225.94083"
+         font-weight="700"
+         font-size="6.35px">delaySubscription (</tspan></text>
+    <text
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-width="0.26"
+       stroke="none"
+       fill-opacity="1"
+       fill="#000000"
+       font-size="3.17px"
+       id="text928"
+       x="300.02072"
+       y="256.73743"><tspan
+         stroke-width="0.26"
+         fill="#000000"
+         font-family="Tahoma, 'Nimbus Sans L'"
+         font-size="6.35px"
+         font-weight="700"
+         x="319.07071"
+         y="262.5574"
+         id="tspan926">)</tspan></text>
+    <path
+       style="marker-end:url(#FilledArrow_Marker-5-2-1-6-9)"
+       marker-end="url(#FilledArrow_Marker-5-2-1-6-9)"
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#000000"
+       fill-opacity="1"
+       fill="none"
+       d="m 288.53075,260.43731 h 22.06996"
+       id="line56-9"
+       inkscape:connector-curvature="0" />
+    <path
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-width="0.26"
+       stroke="none"
+       fill-opacity="1"
+       fill="#000000"
+       d="m 306.63072,257.26731 h 0.27 l 0.53,0.26 v 5.81999 l -0.53,0.27 h -0.27 l -0.26,-0.27 v -5.81999 z"
+       id="path64-0"
+       inkscape:connector-curvature="0" />
+    <circle
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#000000"
+       fill-opacity="1"
+       fill="#ffffff"
+       r="3.4399941"
+       id="ellipse1418"
+       cy="260.43741"
+       cx="293.14072" />
+    <path
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#000000"
+       fill-opacity="1"
+       fill="none"
+       d="M 210.06088,254.08732 H 337.86066"
+       id="line1181-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="marker-end:url(#FilledArrow_Marker-75-2)"
+       marker-end="url(#FilledArrow_Marker-75-2)"
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#000000"
+       fill-opacity="1"
+       fill="none"
+       d="m 230.43084,230.30736 h 42.97993"
+       id="line63-0"
+       inkscape:connector-curvature="0" />
+    <circle
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#000000"
+       fill-opacity="1"
+       fill="#ffffff"
+       r="6.0899897"
+       cx="250.81081"
+       cy="230.27737"
+       id="ellipse68-9" />
+    <path
+       style="marker-end:url(#FilledArrow_Marker_3-3-29-8)"
+       marker-end="url(#FilledArrow_Marker_3-3-29-8)"
+       stroke-opacity="1"
+       stroke-dasharray="0.529167, 1.5875"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#45b8de"
+       fill-opacity="1"
+       fill="none"
+       d="M 230.43084,253.60732 V 235.70735"
+       id="line1307-4"
+       inkscape:connector-curvature="0" />
+    <text
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-width="0.26"
+       stroke="none"
+       fill-opacity="1"
+       fill="#45b8de"
+       font-size="2.90999px"
+       id="text1311"
+       transform="matrix(0,-0.95024254,1.0523629,0,0,0)"
+       x="-265.89114"
+       y="213.81915"><tspan
+         stroke-width="0.26"
+         fill="#45b8de"
+         font-family="Tahoma, 'Nimbus Sans L'"
+         id="tspan1309"
+         y="216.98914"
+         x="-265.89114"
+         font-weight="400"
+         font-size="3.44001px">subscribe()</tspan></text>
+    <path
+       style="marker-end:url(#FilledArrow_Marker_3-3-29-8)"
+       marker-end="url(#FilledArrow_Marker_3-3-29-8)"
+       stroke-opacity="1"
+       stroke-dasharray="0.529167, 1.5875"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#45b8de"
+       fill-opacity="1"
+       fill="none"
+       d="M 265.89079,253.86732 V 235.60735"
+       id="line1364"
+       inkscape:connector-curvature="0" />
+    <text
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-width="0.26"
+       stroke="none"
+       fill-opacity="1"
+       fill="#45b8de"
+       font-size="2.90999px"
+       y="247.41901"
+       x="-265.89114"
+       transform="matrix(0,-0.95024254,1.0523629,0,0,0)"
+       id="text1368"><tspan
+         stroke-width="0.26"
+         fill="#45b8de"
+         font-family="Tahoma, 'Nimbus Sans L'"
+         font-size="3.44001px"
+         font-weight="400"
+         x="-265.89114"
+         y="250.599"
+         id="tspan1366">cancel()</tspan></text>
+    <text
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-width="0.26"
+       stroke="none"
+       fill-opacity="1"
+       fill="#45b8de"
+       y="218.65086"
+       x="262.33807"
+       transform="scale(0.95024254,1.0523629)"
+       id="text139441"
+       font-size="2.90999px"><tspan
+         stroke-width="0.26"
+         fill="#45b8de"
+         text-anchor="start"
+         writing-mode="lr-tb"
+         font-family="Tahoma, 'Nimbus Sans L'"
+         font-stretch="normal"
+         font-variant="normal"
+         font-style="normal"
+         style="-inkscape-font-specification:'Tahoma, Nimbus Sans L, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"
+         font-size="8.81999px"
+         font-weight="700"
+         x="262.33807"
+         y="221.83087"
+         id="tspan139439">!</tspan></text>
+    <text
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-width="0.26"
+       stroke="none"
+       fill-opacity="1"
+       fill="#45b8de"
+       text-anchor="start"
+       writing-mode="lr-tb"
+       font-family="Tahoma, 'Nimbus Sans L'"
+       font-stretch="normal"
+       font-weight="400"
+       font-variant="normal"
+       font-style="normal"
+       font-size="4.23px"
+       id="text139445"
+       transform="scale(0.95024254,1.0523629)"
+       x="307.76788"
+       y="246.0007"
+       style="-inkscape-font-specification:'Tahoma, Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"><tspan
+         stroke-width="0.26"
+         fill="#45b8de"
+         text-anchor="start"
+         writing-mode="lr-tb"
+         font-family="Tahoma, 'Nimbus Sans L'"
+         font-stretch="normal"
+         font-variant="normal"
+         font-style="normal"
+         id="tspan139443"
+         y="249.18068"
+         x="307.76788"
+         font-weight="700"
+         font-size="4.23px"
+         style="-inkscape-font-specification:'Tahoma, Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">!</tspan></text>
+    <circle
+       stroke-opacity="1"
+       stroke-dasharray="none"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.53"
+       stroke="#000000"
+       fill-opacity="1"
+       fill="#ffffff"
+       cx="301.61075"
+       cy="260.43741"
+       id="circle142979"
+       r="3.4399941" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="stroke:#f7ac09;stroke-width:0.53;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker80577-1)"
+       inkscape:connector-curvature="0"
+       id="path80553-5"
+       d="m 192.50732,230.21982 h 35.82569"
+       fill="none"
+       fill-opacity="1"
+       stroke="#000"
+       stroke-width=".53"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-dasharray=".52916667,1.5875"
+       stroke-opacity="1"
+       marker-end="url(#FilledArrow_Marker_2)" />
+    <text
+       id="text80557-0"
+       stroke-opacity="1"
+       stroke-linejoin="miter"
+       stroke-linecap="butt"
+       stroke-width=".26"
+       stroke="none"
+       fill-opacity="1"
+       fill="#000"
+       word-spacing="0"
+       letter-spacing="0"
+       font-family="sans-serif"
+       font-size="10.58"
+       font-weight="400"
+       font-style="normal"
+       y="231.78104"
+       x="159.45093"
+       style="font-style:normal;font-weight:400;font-size:10.58px;line-height:125%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan80555-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         stroke-width="0.26"
+         y="231.78104"
+         x="159.45093">example of</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:400;font-size:10.58px;line-height:125%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="159.45093"
+       y="237.60187"
+       font-style="normal"
+       font-weight="400"
+       font-size="10.58"
+       font-family="sans-serif"
+       letter-spacing="0"
+       word-spacing="0"
+       fill="#000"
+       fill-opacity="1"
+       stroke="none"
+       stroke-width=".26"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-opacity="1"
+       id="text87932"><tspan
+         x="159.45093"
+         y="237.60187"
+         stroke-width="0.26"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan87930">companion Flux</tspan></text>
+    <text
+       id="text80557-8"
+       stroke-opacity="1"
+       stroke-linejoin="miter"
+       stroke-linecap="butt"
+       stroke-width=".26"
+       stroke="none"
+       fill-opacity="1"
+       fill="#000"
+       word-spacing="0"
+       letter-spacing="0"
+       font-family="sans-serif"
+       font-size="10.58"
+       font-weight="400"
+       font-style="normal"
+       y="308.34302"
+       x="173.13405"
+       style="font-style:normal;font-weight:400;font-size:10.58px;line-height:125%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan80555-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         stroke-width="0.26"
+         y="308.34302"
+         x="173.13405">representation of the companion as parameter</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:400;font-size:10.58px;line-height:125%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="173.13405"
+       y="315.22211"
+       font-style="normal"
+       font-weight="400"
+       font-size="10.58"
+       font-family="sans-serif"
+       letter-spacing="0"
+       word-spacing="0"
+       fill="#000"
+       fill-opacity="1"
+       stroke="none"
+       stroke-width=".26"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-opacity="1"
+       id="text90280"><tspan
+         x="173.13405"
+         y="315.22211"
+         stroke-width="0.26"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan90278">(here it denotes only first element is considered)</tspan></text>
+    <path
+       marker-end="url(#FilledArrow_Marker_2)"
+       stroke-opacity="1"
+       stroke-dasharray=".52916667,1.5875"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width=".53"
+       stroke="#000"
+       fill-opacity="1"
+       fill="none"
+       d="m 227.29177,302.49972 70.57074,-38.75408"
+       id="path80553-5-9"
+       inkscape:connector-curvature="0"
+       style="stroke:#f7ac09;stroke-width:0.53;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker80577-1-1)"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

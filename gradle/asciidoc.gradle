@@ -38,9 +38,17 @@ configure(rootProject) {
 		}
 		baseDirFollowsSourceDir()
 		resources {
-			from(sourceDir) {
-				include 'images/**'
-				include 'highlight/**/*'
+			from("${sourceDir}/highlight") {
+				into "./highlight/"
+				include '**/*'
+			}
+			from("${sourceDir}/images") {
+				into "./images/"
+				include '**'
+			}
+			from( "${rootDir}/docs/svg" ) {
+				into "./images/"
+				include 'legend-*.svg'
 			}
 
 		}
