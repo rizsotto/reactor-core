@@ -71,9 +71,9 @@ https://github.com/reactor/reactor-core/edit/master/docs/asciidoc/apdx-operatorC
 to "<<which-operator>>"
 endif::[]
 
-ifeval::["{backend}" == "html5"]
 [appendix]
 include::apdx-howtoReadMarbles.adoc[leveloffset=1]
+ifeval::["{backend}" == "html5"]
 https://github.com/reactor/reactor-core/edit/master/docs/asciidoc/apdx-howtoReadMarbles.adoc[Suggest Edit^, title="Suggest an edit to the above section via github", role="fa fa-edit"]
 to "<<howtoReadMarbles>>"
 endif::[]
