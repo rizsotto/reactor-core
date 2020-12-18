@@ -16,12 +16,12 @@
 
 package reactor.core.publisher;
 
-import java.util.Set;
+import java.util.Map;
 
 import reactor.core.CoreSubscriber;
 import reactor.core.Fuseable;
 import reactor.util.annotation.Nullable;
-import reactor.util.function.Tuple2;
+import reactor.util.function.Tuples;
 
 /**
  * An operator that just bears a name or a set of tags, which can be retrieved via the
@@ -35,11 +35,11 @@ final class FluxNameFuseable<T> extends InternalFluxOperator<T, T> implements Fu
 
 	final String name;
 
-	final Set<Tuple2<String, String>> tags;
+	final Map<String, String> tags;
 
 	FluxNameFuseable(Flux<? extends T> source,
 			@Nullable String name,
-			@Nullable Set<Tuple2<String, String>> tags) {
+			@Nullable Map<String, String> tags) {
 		super(source);
 		this.name = name;
 		this.tags = tags;
@@ -58,11 +58,11 @@ final class FluxNameFuseable<T> extends InternalFluxOperator<T, T> implements Fu
 		}
 
 		if (key == Attr.TAGS && tags != null) {
-			return tags.stream();
+			return tags.entrySet()
+			           .stream()
+			           .map(entry -> Tuples.of(entry.getKey(), entry.getValue()));
 		}
 
 		return super.scanUnsafe(key);
 	}
-
-
 }
